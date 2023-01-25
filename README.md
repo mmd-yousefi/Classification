@@ -1,2 +1,2 @@
 # Classification
-Classification Model
+MLP-based Classifier for the CIFAR10 Dataset.
